@@ -1,0 +1,6 @@
+[submodule "supermarket_price"]
+	path = supermarket_price
+	url = https://github.com/saifulAchmad/supermarket_price.git
+[submodule "car_accident_data"]
+	path = car_accident_data
+	url = https://github.com/saifulAchmad/car_accident_data.git
